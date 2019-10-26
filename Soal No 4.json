@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Movies",
+    "info": "category_name"
+  },
+  {
+    "name": "Interstellar",
+    "info": "category_data"
+  },
+  {
+    "name": "Dark Knight",
+    "info": "category_data"
+  },
+  {
+    "name": "Music",
+    "info": "category_name"
+  },
+  {
+    "name": "Adams",
+    "info": "category_data"
+  },
+  {
+    "name": "Nirvana",
+    "info": "category_data"
+  }
+
